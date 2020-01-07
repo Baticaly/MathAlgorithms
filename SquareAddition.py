@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #path(x) -> The numbers on the path we are going to follow
 #mid -> Max value comparison
 #n(x) -> Possible path(x) array
@@ -107,6 +101,3 @@ else:
 
 
 print("Maximum value of addition =>", start+path3+path2+nmid+path1+path0+finish)
-
-
-# In[ ]:
